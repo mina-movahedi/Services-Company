@@ -1,0 +1,52 @@
+.mainMenu {
+    float: right;
+    top: 0;
+    right: 0;
+    width: 10%;
+    height: 100%;
+    position: fixed;
+    color: #71f06d;
+    text-align: center;
+    padding: 0px 0px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: rgb(88, 121, 209);
+    display: flex;
+    /* flex-direction: row; */
+    /* flex-wrap: nowrap; */
+    /* justify-content: flex-start; */
+    /* align-items: flex-start; */
+    /* align-content: stretch; */
+    font-family: "byekan";
+}
+
+/* .mainMenu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 20%;
+  height: 100%;
+  min-height: 100vh;
+  z-index: 50;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  height: 100vh;
+  background: rgb(252, 248, 4);
+} */
+
+li {
+    display: inline;
+    float: right;
+    padding: 0;
+    width: 100%;
+    height: 30%;
+    border: 1px 1px 1px 0px solid rgb(252, 249, 249);
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+a {
+    text-decoration: none;
+}

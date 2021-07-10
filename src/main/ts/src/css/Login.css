@@ -1,0 +1,21 @@
+.codeMelli {
+    position: absolute;
+    left: 120px;
+    top: 90px;
+    padding: 3px;
+    border-radius: 10px;
+    background-color: rgb(243, 11, 11);
+    height: auto;
+    width: auto;
+    font-size: medium;
+}
+
+.access {
+    position: relative;
+}
+
+
+.b {
+    height: 20px;
+    width: 100px;
+}
